@@ -19,7 +19,7 @@
     "@moralisweb3/next": "^2.14.1",
     "@web3uikit/core": "^0.1.5",
     "@web3uikit/icons": "^0.1.5",
-    "eslint-config-next": "^13.0.6",
+    "eslint-config-next": "^13.2.1",
     "ethers": "^5.6.9",
     "framer-motion": "^6",
     "moralis": "^2.14.1",
