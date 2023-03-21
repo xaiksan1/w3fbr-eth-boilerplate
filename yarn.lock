@@ -2490,10 +2490,17 @@
     "@web3uikit/icons" "*"
     "@web3uikit/styles" "*"
 
-"@web3uikit/icons@*", "@web3uikit/icons@^0.1.5":
+"@web3uikit/icons@*":
   version "0.1.5"
   resolved "https://registry.yarnpkg.com/@web3uikit/icons/-/icons-0.1.5.tgz#6a1c1699b00640188b49a85346f3d8b2a4a43353"
   integrity sha512-1FcaZaw3SljvWNA5V2PKMfGbfhiVG6rT/u1TV7PHqMTaYlAbbTeeq5rHNrWx3MkCWBITgU6jYl2w62wGSn0WCg==
+  dependencies:
+    "@web3uikit/config" "*"
+
+"@web3uikit/icons@^0.2.46":
+  version "0.2.46"
+  resolved "https://registry.yarnpkg.com/@web3uikit/icons/-/icons-0.2.46.tgz#caf9a9d7766894b02f0ab80fc899685c64572c33"
+  integrity sha512-lRAYTV6BkLZkqMoLAB5NenM/4OTBjC8pa5lFXaSGG6U2NGXYnHJdSE/B2zZEgZZfuJ1HUDboD7RUiSglx8EbEg==
   dependencies:
     "@web3uikit/config" "*"
 
